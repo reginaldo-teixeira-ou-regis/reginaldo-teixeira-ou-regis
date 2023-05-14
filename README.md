@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!!;Welcome+to+my+github+profile;I'm+Reginaldo+Teixeira;I'm+37+years+old;I'm+a+brazilian+Junior+Developer!;Currently+residing+in+Brazil;Anything,+just+call+me.)](https://git.io/typing-svg)
-  
+	
 ##
   
 | **Currently Learning:** | **My Currently Operational System:** | My Currently IDE |
@@ -46,6 +46,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-%23339933.svg?style=plastic&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=plastic&logo=NoSQL&logoColor=white)
@@ -81,16 +83,6 @@
 <!-- ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white)  -->
 <!-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)  -->
 
-<!-- | **Front-end** | **Back-end** | **Languages** | **Database** | **Tests** |
-| :---: | :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |
-| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) |
-| ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat-square&logo=notion&logoColor=white) | ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown) |
-| ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) |     | ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Json Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |      | ![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon) |
-| ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) |     |     | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) | -->
-<!-- | FrontEnd | BackEnd | Languages | Database | Tests | -->
-
 </details>  
 </div>
   
@@ -99,6 +91,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldo-teixeira-ou-regis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-teixeira-ou-regis&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+	
+##
+	
+<h2 align="center">## 🏆 GitHub Trophies</h2>
+<p align="center">
+   <img src=https://github-profile-trophy.vercel.app/?username=reginaldo-teixeira-ou-regis&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
   
 ##
 
@@ -115,10 +114,11 @@
 <!-- <h2 align="center">Connect with me: </h2> -->
 <div align="center">
   <a href = "mailto:reginaldoteixeiraouregis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/+5543999308399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B5543999308399?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>		
 	
-##	
+##
 
 <div align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
