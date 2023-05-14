@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!!;My+name+is+Reginaldo+Teixeira;I'm+37+years+old;I'm+a+brazilian+Junior+Developer!;Currently+residing+in+Brazil;Welcome+to+my+Github!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!!;Welcome+to+my+github+profile;I'm+Reginaldo+Teixeira;I'm+37+years+old;I'm+a+brazilian+Junior+Developer!;Currently+residing+in+Brazil;Anything,+just+call+me.)](https://git.io/typing-svg)
   
 ##
   
@@ -10,7 +10,7 @@
   
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=Below+are+my+current+skills)](https://git.io/typing-svg)
+# Below are my current skills!!!
   
 ##
   
@@ -58,16 +58,18 @@
 
 <br>
 
-
 ![Snake animation](https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-contribution-grid-snake.svg)
+	
+##
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=Connect+with+me!!!)](https://git.io/typing-svg)
 
-
-<h2 align="center">Connect with me: </h2>
+<!-- <h2 align="center">Connect with me: </h2> -->
 <div align="center">
   <a href = "mailto:reginaldoteixeiraouregis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+	
 <h2 align="center">❤ Views and Followers</h2>
 
 <div align="center">
