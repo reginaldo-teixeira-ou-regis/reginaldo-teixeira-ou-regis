@@ -66,6 +66,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-gray?style=plastic&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring-boot)
+[![Spring Initializr](https://img.shields.io/badge/Spring%20Initializr-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)](https://start.spring.io/)
+[![Swagger UI](https://img.shields.io/badge/Swagger%20UI-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=white)](https://link-para-o-seu-swagger-ui)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 	
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
