@@ -105,8 +105,6 @@
 <div align="center">
 
 <br>
-
-![Snake animation](https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-contribution-grid-snake.svg)
 		   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
