@@ -54,6 +54,7 @@
 ![Sequelize](https://img.shields.io/badge/sequelize-%236B2E5F.svg?style=plastic&logo=sequelize&logoColor=white)
 ![JWT](https://img.shields.io/badge/JsonWebToken-%23323330.svg?style=plastic&logo=json-web-tokens&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%230E1626.svg?style=plastic&logo=socket.io&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=plastic&logo=gradle&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=plastic&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332.svg?style=plastic&logo=testing-library&logoColor=white)
