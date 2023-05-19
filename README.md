@@ -90,6 +90,7 @@
   
 ##
   
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldo-teixeira-ou-regis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-teixeira-ou-regis&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -102,10 +103,6 @@
 </p>
   
 ##
-
-<div align="center">
-
-<br>
 		   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
