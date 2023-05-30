@@ -35,7 +35,7 @@
 <details>
 
 <summary><h4>My Technical Skills</h4></summary>
-<div id='lojc' align="center">
+<div id='lojc' align="center" style="display: inline_block">
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
