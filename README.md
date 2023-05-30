@@ -112,10 +112,11 @@
   <img alt="github-snake" src="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
 </picture>
 	
-##
-	
+##																    
+<div align="center">	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=Connect+with+me!!!)](https://git.io/typing-svg)
-
+</div>
+		   
 <!-- <h2 align="center">Connect with me: </h2> -->
 <div align="center">
   <a href = "mailto:reginaldoteixeiraouregis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
