@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!!;Welcome+to+my+github+profile;I'm+Reginaldo+Teixeira;I'm+37+years+old;I'm+a+brazilian+Junior+Developer;Currently+residing+in+Brazil;Anything,+just+call+me.)](https://git.io/typing-svg)
 	
+</div>
+	
 ##
   
 | **Currently Learning:** | **My Currently Operational System:** | My Currently IDE |
@@ -24,7 +26,7 @@
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  </div>
+</div>
   
 <details>
 <summary><h4>My Technical Skills</h4></summary>
