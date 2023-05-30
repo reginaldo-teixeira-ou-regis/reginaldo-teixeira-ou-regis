@@ -33,7 +33,7 @@
 </div>
 
 <details>
-<br>
+
 <summary><h4>My Technical Skills</h4></summary>
 <div id='lojc' align="center" style="display: inline_block">
 
