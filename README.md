@@ -89,7 +89,7 @@
 </div>
 	
 </details>
-  
+<br>
 ##
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldo-teixeira-ou-regis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
