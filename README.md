@@ -21,8 +21,6 @@
 <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-  
-#
 
 <details>
 <summary><h4>My Technical Skills</h4></summary>
