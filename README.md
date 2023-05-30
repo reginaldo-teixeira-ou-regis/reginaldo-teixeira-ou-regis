@@ -98,7 +98,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
-</picture>
+</picture>														
+																##
 															
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=Connect+with+me!!!)](https://git.io/typing-svg)
 		   
@@ -107,8 +108,6 @@
   <a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+5543999308399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B5543999308399?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
-
-##
 
 <div align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
