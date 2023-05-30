@@ -107,7 +107,7 @@
   <a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+5543999308399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B5543999308399?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>		
-
+##
 <div align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=reginaldo-teixeira-ou-regis"></a>
