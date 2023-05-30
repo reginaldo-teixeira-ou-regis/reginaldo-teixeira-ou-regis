@@ -39,7 +39,6 @@
 
 # 💻 Tech Stack:
   
-## Languanges:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
@@ -48,29 +47,21 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-  
-## Frameworks:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23339933.svg?style=plastic&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring-boot)
-
-## Libraries:
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-%230E1626.svg?style=plastic&logo=socket.io&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-%236B2E5F.svg?style=plastic&logo=sequelize&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white)
-
-## Database:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=plastic&logo=NoSQL&logoColor=white)
 ![H2 Database](https://img.shields.io/badge/H2%20Database-gray?style=plastic&logo=h2&logoColor=white)
-
-## Tests:
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=plastic&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332.svg?style=plastic&logo=testing-library&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=plastic&logo=mocha&logoColor=white)
@@ -78,12 +69,8 @@
 ![Sinon](https://img.shields.io/badge/sinon-%23864C9F.svg?style=plastic&logo=sinon&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23525DCB.svg?style=plastic&logo=junit5&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=plastic&logo=cypress&logoColor=white) 
-  
-## IDE's:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
-
-## Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white)
@@ -101,24 +88,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-  
-## KKKKKK
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJs" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
-  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="RTL" height="30" width="30" src="https://testing-library.com/img/octopus-128x128.png" /> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="sequelize" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-<!--   <img align="center" alt="mongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="NestJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
-  
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  -->
 <!-- ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)  -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)  -->
