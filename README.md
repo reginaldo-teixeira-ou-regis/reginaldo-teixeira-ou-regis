@@ -6,16 +6,22 @@
 	
 ##
   
+<div align="center">
+  
 | **Currently Learning:** | **My Currently Operational System:** | My Currently IDE |
 | :---: | :---: | :---: |
 | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white) ![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=plastic&logo=gradle&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring-boot) ![H2 Database](https://img.shields.io/badge/H2%20Database-gray?style=plastic&logo=h2&logoColor=white) [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)](https://angular.io/) [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)](https://www.python.org/) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
   
+</div>
+	
 ##
+
+<div align="center">
 
 # Below are my current skills!!!
   
-<div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+    <br>
     <img align="left" height="200" alt="coding-time" src="./code.gif">
     <h1 align="center">Favorite Technologies <3</h1>
     <img align="center" height="30" width="40" alt="typescript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -25,7 +31,8 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  </div>
+	  
 </div>
   
 <details>
@@ -89,8 +96,9 @@
 <!-- ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white)  -->
 <!-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)  -->
 
-</details>  
 </div>
+	
+</details>
   
 ##
   
@@ -100,26 +108,34 @@
 </div>
 	
 ##
-	
+
+<div>
 <h2 align="center">## 🏆 GitHub Trophies</h2>
 <p align="center">
    <img src=https://github-profile-trophy.vercel.app/?username=reginaldo-teixeira-ou-regis&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+</div>
   
 ##
-		   
+
+<div>
+	
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
 </picture>
+															
+</div>
 	
 ##																    
-<div align="center">	
+<div align="center">
+		   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=Connect+with+me!!!)](https://git.io/typing-svg)
+
 </div>
 		   
-<!-- <h2 align="center">Connect with me: </h2> -->
+<h2 align="center">Connect with me: </h2>
 <div align="center">
   <a href = "mailto:reginaldoteixeiraouregis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
