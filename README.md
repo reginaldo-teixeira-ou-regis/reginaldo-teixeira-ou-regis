@@ -99,7 +99,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/reginaldo-teixeira-ou-regis/reginaldo-teixeira-ou-regis/blob/output/github-snake-dark.svg">
 </picture>														
-																##
+																<br>
 															
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&font=bold&size=35&center=true&vCenter=true&width=1000&lines=Connect+with+me!!!)](https://git.io/typing-svg)
 		   
