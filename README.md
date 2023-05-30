@@ -22,7 +22,7 @@
 
 </div>
   
-##
+#
 
 <details>
 <summary><h4>My Technical Skills</h4></summary>
@@ -86,6 +86,8 @@
 <!-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)  -->
 
 </div>
+  
+##
 
 </details>
 
