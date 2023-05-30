@@ -36,13 +36,13 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)](https://angular.io/)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-%23339933.svg?style=plastic&logo=express&logoColor=white)
@@ -69,8 +69,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-gray?style=plastic&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring-boot)
-[![Spring Initializr](https://img.shields.io/badge/Spring%20Initializr-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)](https://start.spring.io/)
-[![Swagger UI](https://img.shields.io/badge/Swagger%20UI-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=white)](https://link-para-o-seu-swagger-ui)
+![Spring Initializr](https://img.shields.io/badge/Spring%20Initializr-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger%20UI-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 	
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
@@ -92,11 +92,6 @@
   
 ##
   
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldo-teixeira-ou-regis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-teixeira-ou-regis&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
-	  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldo-teixeira-ou-regis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-teixeira-ou-regis&layout=compact&langs_count=7&theme=tokyonight"/>
