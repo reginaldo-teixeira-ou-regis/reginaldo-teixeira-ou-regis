@@ -23,7 +23,7 @@
 <img align="left" height="200" alt="coding-time" src="./code.gif">
 <h1 align="center">Favorite Technologies <3</h1>
 <img align="center" height="30" width="40" alt="typescript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="30" width="40" alt="jest-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" height="30" width="40" alt="kotlin-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
