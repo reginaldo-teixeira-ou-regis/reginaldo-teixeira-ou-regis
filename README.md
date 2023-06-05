@@ -100,17 +100,17 @@
   
 ##
 
-<div align="center">
+<!-- <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginaldo-teixeira-ou-regis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-teixeira-ou-regis&layout=compact&langs_count=7&theme=tokyonight"/>
 
-</div>
+</div> -->
   
-<h2 align="center">## 🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">## 🏆 GitHub Trophies</h2>
 <p align="center">
 <img src=https://github-profile-trophy.vercel.app/?username=reginaldo-teixeira-ou-regis&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
+</p> -->
 
 <div align="center">
                    
