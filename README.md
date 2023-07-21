@@ -65,6 +65,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=plastic&logo=NoSQL&logoColor=white)
 ![H2 Database](https://img.shields.io/badge/H2%20Database-gray?style=plastic&logo=h2&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%23323131.svg?style=plastic&logo=railway&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=plastic&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332.svg?style=plastic&logo=testing-library&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=plastic&logo=mocha&logoColor=white)
