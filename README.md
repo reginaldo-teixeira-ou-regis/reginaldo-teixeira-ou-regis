@@ -8,7 +8,7 @@
 
 | **Currently Learning:** | **My Currently Operational System:** | My Currently IDE |
 | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23007ACC.svg?style=plastic&logo=next-dot-js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-%230c344b.svg?style=plastic&logo=prisma&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+| ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23007ACC.svg?style=plastic&logo=next-dot-js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-%230c344b.svg?style=plastic&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 
 <div>
 
@@ -61,6 +61,7 @@
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-%230E1626.svg?style=plastic&logo=socket.io&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-%236B2E5F.svg?style=plastic&logo=sequelize&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=plastic&logo=NoSQL&logoColor=white)
