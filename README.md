@@ -55,6 +55,8 @@
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23339933.svg?style=plastic&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring-boot)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
