@@ -144,17 +144,6 @@
 <a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/+5543999308399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B5543999308399?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="mailto:reginaldoteixeiraouregis@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/reginaldo-teixeira-ou-regis" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://wa.me/+5543999308399" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B5543999308399?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-
-
 </div>
 
 <div align="center">
