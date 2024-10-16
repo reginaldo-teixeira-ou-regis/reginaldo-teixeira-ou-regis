@@ -14,8 +14,8 @@
 
 <div align="center">
   
-# Below are my current skills!!!
-<br>
+# 
+Below are my current skills!!!
 
 <div>
 
