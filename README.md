@@ -21,7 +21,6 @@
 <div align="center" style="display: inline_block">
 
 <img align="left" height="200" alt="coding-time" src="./code.gif">
-<br>
 <h1 align="center">Favorite Technologies <3</h1>
 <br>
 <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
