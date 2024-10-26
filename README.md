@@ -8,7 +8,7 @@
 
 | **Currently Learning:** | **My Currently Operational System:** | My Currently IDE |
 | :---: | :---: | :---: |
-| ![Next.js](https://img.shields.io/badge/Next.js-%23007ACC.svg?style=plastic&logo=next-dot-js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-%230c344b.svg?style=plastic&logo=prisma&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+| ![Next.js](https://img.shields.io/badge/Next.js-%23007ACC.svg?style=plastic&logo=next-dot-js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-%230c344b.svg?style=plastic&logo=prisma&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 
 <div>
 
